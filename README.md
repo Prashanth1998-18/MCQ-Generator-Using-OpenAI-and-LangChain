@@ -1,4 +1,4 @@
-MCQ Generator with OpenAI and LangChain⛓️
+**MCQ Generator with OpenAI and LangChain 🦜⛓️‍💥**
 
 Given a text/PDF Document and other inputs as displayed below, this app generates MCQs and also evaluates them, and gives a review
 
